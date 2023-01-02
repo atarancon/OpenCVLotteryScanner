@@ -1,0 +1,4 @@
+/Users/at/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/.cxx/Debug/3m53vf54/armeabi-v7a \
+  opencv_jni_shared

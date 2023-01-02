@@ -1,0 +1,183 @@
+{
+  "abi": "ARM64_V8A",
+  "info": {
+    "abi": "ARM64_V8A",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/.cxx/Debug/3m53vf54/arm64-v8a",
+  "soFolder": "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/3m53vf54/obj/arm64-v8a",
+  "soRepublishFolder": "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/build/intermediates/cmake/debug/obj/arm64-v8a",
+  "abiPlatformVersion": 19,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [
+      "opencv_jni_shared"
+    ],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/.cxx",
+      "intermediatesBaseFolder": "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/build/intermediates",
+      "intermediatesFolder": "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/build/intermediates/cxx",
+      "gradleModulePathName": ":opencv",
+      "moduleRootFolder": "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk",
+      "moduleBuildFile": "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/build.gradle",
+      "makeFile": "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "/Users/at/Library/Android/sdk/ndk-bundle",
+      "ndkVersion": "17.1.4828580",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 28,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/at/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "/Users/at/Library/Android/sdk/cmake/3.18.1/bin/cmake",
+        "minimumCmakeVersion": "3.18.1"
+      },
+      "stlSharedObjectMap": {
+        "GNUSTL_SHARED": {
+          "ARMEABI_V7A": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/libgnustl_shared.so",
+          "ARM64_V8A": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/libgnustl_shared.so",
+          "X86": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/libgnustl_shared.so",
+          "X86_64": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/libgnustl_shared.so"
+        },
+        "GNUSTL_STATIC": {},
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/libs/armeabi-v7a/libc++_shared.so",
+          "ARM64_V8A": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/libs/arm64-v8a/libc++_shared.so",
+          "X86": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/libs/x86/libc++_shared.so",
+          "X86_64": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/libs/x86_64/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "STLPORT_SHARED": {
+          "ARMEABI_V7A": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/stlport/libs/armeabi-v7a/libstlport_shared.so",
+          "ARM64_V8A": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/stlport/libs/arm64-v8a/libstlport_shared.so",
+          "X86": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/stlport/libs/x86/libstlport_shared.so",
+          "X86_64": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/stlport/libs/x86_64/libstlport_shared.so"
+        },
+        "STLPORT_STATIC": {},
+        "SYSTEM": {},
+        "UNKNOWN": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/at/AndroidStudioProjects/cvtest1",
+        "sdkFolder": "/Users/at/Library/Android/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": [],
+      "ninjaExe": "/Users/at/Library/Android/sdk/cmake/3.18.1/bin/ninja"
+    },
+    "prefabClassPaths": [],
+    "prefabPackages": [],
+    "prefabPackageConfigurations": [],
+    "stlType": "c++_shared",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/.cxx/Debug/3m53vf54/prefab/arm64-v8a",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "3m53vf545341b2f44324y6k1i523u5o5b2wf4jf56c1g6f5n2w3g4h1e4i",
+  "configurationArguments": [
+    "-H/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/libcxx_helper",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d19",
+    "-DANDROID_PLATFORM\u003dandroid-19",
+    "-DANDROID_ABI\u003darm64-v8a",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a",
+    "-DANDROID_NDK\u003d/Users/at/Library/Android/sdk/ndk-bundle",
+    "-DCMAKE_ANDROID_NDK\u003d/Users/at/Library/Android/sdk/ndk-bundle",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/Users/at/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003d/Users/at/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/3m53vf54/obj/arm64-v8a",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/3m53vf54/obj/arm64-v8a",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-B/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/.cxx/Debug/3m53vf54/arm64-v8a",
+    "-GNinja",
+    "-DANDROID_STL\u003dc++_shared"
+  ],
+  "stlLibraryFile": "/Users/at/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/libs/arm64-v8a/libc++_shared.so",
+  "intermediatesParentFolder": "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/build/intermediates/cxx/Debug/3m53vf54"
+}

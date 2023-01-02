@@ -1,0 +1,4 @@
+/Users/at/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /Users/at/AndroidStudioProjects/OpencvNativeProject/opencv/.cxx/Debug/4u1b415s/x86 \
+  opencv_jni_shared

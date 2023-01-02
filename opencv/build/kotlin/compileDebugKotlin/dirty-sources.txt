@@ -1,0 +1,2 @@
+/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/java/src/org/opencv/core/MatMatMul.kt
+/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/java/src/org/opencv/core/MatAt.kt

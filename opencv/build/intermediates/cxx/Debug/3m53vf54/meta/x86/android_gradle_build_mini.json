@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/at/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/.cxx/Debug/3m53vf54/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/at/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/.cxx/Debug/3m53vf54/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "/Users/at/Documents/OpenCVLibraryAndroid/OpenCV-android-sdk/sdk/.cxx/Debug/3m53vf54/x86/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}
